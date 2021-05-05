@@ -25,6 +25,8 @@ The towns from which these routes originate are:
 * The three stops that all these routes make in Nairobi (in order) are:
 
 i Kawangware: the first stop in the outskirts of Nairobi
+
 ii Westlands
+
 iii Afya Centre: The main bus terminal where most passengers disembark
 Passengers of these bus (or shuttle) rides are affected by Nairobi traffic not only during their ride into the city, but from there they must continue their journey to their final destination in Nairobi wherever that may be. Traffic can act as a deterrent for those who have the option to avoid buses that arrive in Nairobi during peak traffic hours. On the other hand, traffic may be an indication for people’s movement patterns, reflecting business hours, cultural events, political events, and holidays.
